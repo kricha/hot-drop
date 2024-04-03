@@ -1,0 +1,4 @@
+/node_modules/
+creds.json
+moon.json
+*.log

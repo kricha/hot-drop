@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@webassemblyjs/wasm-parser": "^1.12.1",
+    "cron": "^3.1.6",
+    "csrf": "^3.1.0",
+    "date-fns": "^3.3.1",
+    "near-api-js": "^3.0.2",
+    "near-contract-parser": "^1.0.0",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
